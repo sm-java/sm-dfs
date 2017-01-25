@@ -10,8 +10,19 @@ Users create and manipulate files that may reside in multiple places, ranging fr
 4. Maintain versioning accross local or remote stores.
 5. Provide storage of sensitive files in a secure manner.
 
+####Features
+1. Can choose no replication or different replication level, rack and data center aware
+2. Automatic master servers failover - no single point of failure (SPOF)
+3. Automatic Gzip compression depending on file mime type
+4. Automatic compaction to reclaimed disk spaces after deletion or update
+5. Servers in the same cluster can have different disk spaces, file systems, OS etc.
+6. Adding/Removing servers does not cause any data re-balancing
+7. Optional filer server provides "normal" directories and files via http
+8. Optionally fix the orientation for jpeg pictures
+9. Support Etag, Accept-Range, Last-Modified, etc.
+
+
 ####Design Goals
 1. SM-DFS interface should be as close to any other file system.
 2. Ability to plug-in multiple file system adaptors
 
-- Assumptions
