@@ -15,3 +15,4 @@
 13. [Seaweed FS](https://github.com/chrislusf/seaweedfs)
 14. [InfinitFS](https://infinit.sh/)
 15. [ORI FS](http://ori.scs.stanford.edu/)
+16. [rsyncNet](http://www.rsync.net/index.html)
