@@ -10,3 +10,4 @@
 8. [Fuse Implementation in Java](https://github.com/EtiennePerot/fuse-jna)
 9. [Develop your own file system impplementation using Linux Fuse](https://www.ibm.com/developerworks/library/l-fuse/)
 10. [Papers we love](https://github.com/papers-we-love/papers-we-love)
+11. [JFS implementation from ParallelUniverse](https://github.com/puniverse/javafs)
