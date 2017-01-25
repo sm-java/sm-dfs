@@ -1,4 +1,4 @@
-# SM-DFS Requirements for a distributed file Systems
+# SM-DFS Requirements for a distributed file System
 
 ####Introduction
 Any user creates and manipulates that resides in multiple places, ranging from local machine to mobile phones. An user may create a file in his or her local 
