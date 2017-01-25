@@ -20,6 +20,7 @@ Users create and manipulate files that may reside in multiple places, ranging fr
 7. Optional filer server provides "normal" directories and files via http
 8. Optionally fix the orientation for jpeg pictures
 9. Support Etag, Accept-Range, Last-Modified, etc.
+10. Automatic archiving of files for long term storage
 
 
 ####Design Goals
