@@ -35,3 +35,5 @@ message to stderr and returns an error code. When you see the message, you'll kn
 
 ####Resources
 1. [FUSE Docs](https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201109/homework/fuse/fuse_doc.html)
+2. [FUSE Tutorial](http://engineering.facile.it/blog/eng/write-filesystem-fuse/)
+3. [FUSE Tutorial - 2](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/)
