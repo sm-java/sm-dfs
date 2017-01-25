@@ -31,3 +31,7 @@ It is very tempting to just leave functions undefined if your filesystem doesn't
 writing them yet. Don't. If a function isn't listed in your fuse_operations struct, Fuse will silently generate a failure when it is 
 called, and you'll never find out that you need to write it. Instead, write every unimplemented function as a stub that prints a 
 message to stderr and returns an error code. When you see the message, you'll know what extra functions you need to write.
+
+
+####Resources
+1. [FUSE Docs](https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201109/homework/fuse/fuse_doc.html#gotchas)
