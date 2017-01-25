@@ -13,3 +13,5 @@
 11. [JFS implementation from ParallelUniverse](https://github.com/puniverse/javafs)
 12. [JNR Fuse](https://github.com/SerCeMan/jnr-fuse)
 13. [Seaweed FS](https://github.com/chrislusf/seaweedfs)
+14. [InfinitFS](https://infinit.sh/)
+15. [ORI FS](http://ori.scs.stanford.edu/)
