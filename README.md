@@ -12,3 +12,4 @@
 10. [Papers we love](https://github.com/papers-we-love/papers-we-love)
 11. [JFS implementation from ParallelUniverse](https://github.com/puniverse/javafs)
 12. [JNR Fuse](https://github.com/SerCeMan/jnr-fuse)
+13. [Seaweed FS](https://github.com/chrislusf/seaweedfs)
