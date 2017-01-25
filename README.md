@@ -6,3 +6,5 @@
 4. [GFS Design Paper]()
 5. [Alluxio](http://www.alluxio.org/)
 6. [Apache Ignite](https://ignite.apache.org/)
+7. [Linux - FUSE specification]()
+8. [Fuse Implementation in Java](https://github.com/EtiennePerot/fuse-jna)
