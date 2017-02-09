@@ -17,3 +17,6 @@
 15. [ORI FS](http://ori.scs.stanford.edu/)
 16. [rsyncNet](http://www.rsync.net/index.html)
 17. [Yarbu](http://yarbu.sourceforge.net/#x1-70004.1)
+18. [Scale 7 - Libraries and systems for scalable computing](https://github.com/s7)
+19. [A Java Library for distributed locking and synchronization](https://github.com/s7/scale7-cages)
+20. [A Java library for accessing the Cassandra database ](https://github.com/s7/scale7-pelops)
