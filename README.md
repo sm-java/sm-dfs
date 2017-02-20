@@ -20,3 +20,4 @@
 18. [Scale 7 - Libraries and systems for scalable computing](https://github.com/s7)
 19. [A Java Library for distributed locking and synchronization](https://github.com/s7/scale7-cages)
 20. [A Java library for accessing the Cassandra database ](https://github.com/s7/scale7-pelops)
+21. [Cassandra: Up and running quickly in Java using Pelops](https://ria101.wordpress.com/2010/06/11/pelops-the-beautiful-cassandra-database-client-for-java/)
