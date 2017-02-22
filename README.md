@@ -21,3 +21,4 @@
 19. [A Java Library for distributed locking and synchronization](https://github.com/s7/scale7-cages)
 20. [A Java library for accessing the Cassandra database ](https://github.com/s7/scale7-pelops)
 21. [Cassandra: Up and running quickly in Java using Pelops](https://ria101.wordpress.com/2010/06/11/pelops-the-beautiful-cassandra-database-client-for-java/)
+22. [Upspin - Upspin is an experimental project to build a framework for naming and sharing files and other data securely, uniformly, and globally: a global name system of sorts.](https://github.com/upspin/upspin)
